@@ -1,12 +1,13 @@
 /*  your css code here. If applicable */
 
-.carousel .item {
-    height: 400px;
-  }
-  
-  .item img {
-      position: absolute;
-      top: 0;
-      left: 0;
-      min-height: 300px;
-  }
+/*  your css code here. If applicable */
+ #baguetteBox-overlay .full-image img{
+    height: 70%;
+}
+.card{
+	border-radius:5px;
+}
+
+.gallery h2,h6,p{
+	text-align: center;
+}
